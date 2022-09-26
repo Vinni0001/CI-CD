@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vee-cicd-tutorial",
+  "private_key_id": "edf46f1a7dd7e944d7ccfd44dbcdf81465b5d5a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDlwbeKlKowyP3\nXk8n4oezbQhSEo2bOHevFycRGhLxI2dMBhbveV9HmgSesCG7pAh/XutbGIhEMc3B\nne3VPpNTBhT7RiqoM0jhzPouq8/8HIEuHehgYM/2XajMlMVFxykqah8GmsyUigYu\nzFanMs2gYUUj4boV1aAa8XN7JQXcJque4RcaJ4hsIp6dyGwNRu2jTX2Fh3mj8x7I\n8kTsovGselsZmm0I/1oE1G9WoKC4dTno4mMijqcxEbrFbV1X1BPXI6wKCCR4Bk+U\neW9VkCJ83bKckLXzEJ7Xp74MwMAEfBbs7mR5/wVXgRLgNUHheuNrGb+D4Mh1EsSn\nyDYxOONjAgMBAAECggEALCcrVzrRpyRKObzx/IyAWspZzwE+M1SnfACrgopSzVnT\nJ0/WnJ/XGPhVY6daLhxFCM/aLJnYpSBjFPq8Zl+2bU8ZrHG2DntpUAPwVFnX3U9o\nAAujWiJwv+p7wRcyg2KG0frb3ydR2JRh+e2KADuRPMvIimWaFvS/LGXmTl3YuU4h\nwzB6j8DkNN075Sm9vV+JW2d+dWFsSnTWTDPDMYOONSXy7F23RDC/hEGPDJHL8AjQ\neN2OPaSzUXV/PwiTREoeZmy5c1i1pJDUd4sCnb94rt2Q/CwBZATVJ6ijBwtX2Uiv\nuWvvGMNE7l3r/nGX4NIKr813yCQK/EhQPtJqEP76DQKBgQD7z/j8tt2x6mqOQDL7\nN/CzAyonupG2PNQh0EEZAIxjXLvXkPTnIjs1jE5nj/hq9fYzdbVpRLU0+I82mrxv\nXgDwmm/ab+4SjppLG2q1wM5h6CQxbBQ1SsSQYRETZe7aCNuiusgF8/GoWOHk97bo\nzJj5cWfs+n2tODYMsCZu9HeulwKBgQDG17OQitY/7N1dxFS3xJulx6dWyAMD1dhr\nTtim3nuqmX1u6TLve1O73qPkLhWI6m3IK7GJvl/7uw+dsHGBmKhcC2SurFQbWtkt\nbtlFXWImfnwqX1qIxb6CTZ3uUslelnOGTWi++tiVYpaFbslI69/AOWMQItS6qPZI\nzkpjQggXFQKBgCM82DftExr5lc2wODIlgt5aHAURO6DH5FuS+/kWtY6WBIdG9q59\ngNGef75ITFgTcU+EMk232q+99LSMdMAU5IbG5c4oiaU5JWhLPuSORZM33BC6ch1/\nCAC4RJ51TjZetPWRs7n5iCCpx3q2G3d6YhHOB+AGsZ2S1yVxZP9z4GejAoGBALnL\n0YBNCnb+57V2/0YbUuirzuPazl5mEevq56u8lcdJ1petFSgKj6orFe7fVMXzbxMs\nKJ8xoNRB7QyGUvkqYJ5pEvHYGlrZH7dBLYmQAWdAptqc8KZ+R03QIrMO7hQQ9u9W\nI3rYP0oOreEOLMyTgiZGORdZxHaJ7F8JSx7GE3MlAoGAEyt0IlBrX2ClVvYbdfIt\nbHFwGS3VdXqkFGNTFs9h7oXq8APobe3H0Vz4exNsuWIaTC08QmPjeccikb+R8VT5\nI8wRHMx0iPY8cQ6b49GddLEna7d6aTru2g3nAFoK4C+dReKmAf5myhA623cpZiwb\nyxZJEAJefU/ScjvMkbN7Ip0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "Vinni0001@vee-cicd-tutorial.iam.gserviceaccount.com",
+  "client_id": "116915350986275169726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/Vinni0001%40vee-cicd-tutorial.iam.gserviceaccount.com"
+}
